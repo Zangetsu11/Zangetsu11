@@ -36,9 +36,9 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zangetsu11&theme=gruvbox&hide_border=false" alt="GitHub Streak" style="width: 44%;">
 </div>
 <br/>
+
 ----
 <br clear="both">
-
 <img src="https://raw.githubusercontent.com/Zangetsu11/Zangetsu11/output/snake.svg" alt="Snake animation" />
 
 ----
