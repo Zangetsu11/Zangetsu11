@@ -4,9 +4,9 @@
   <tr>
     <td style="text-align: left; vertical-align: top; width: 40%;">
       <p>
-        Passionate about technology, data and gaming. I'm eager to collaborate on projects that push boundaries and create impact. Let's sync up and code our way to the future!
+        Passionate about technology, data and gaming. I'm eager to collaborate on projects that push boundaries and create impact.
       </p>
-      <h3>📫 Connect ?</h3>
+      <h3>📫 Sync Up ?</h3>
       <a href="https://www.linkedin.com/in/utkarshkumar07/">
         <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
       </a>
